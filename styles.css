@@ -27,23 +27,9 @@ body {
     padding: 10px;
 }
 
-/* grouping selectors */
-
-/* first, do this:
-.inside-box h3 {
-    font-size: 20px;
-}
-
-.inside-box p {
-    font-size: 20px;
-}
-*/
-
 .inside-box h3, .inside-box p {
     font-size: 20px;
 }
-
-/* Task: use the group selector to group same css attributes together */
 
 .primary-box, .secondary-box {
     font-size: 24px;
