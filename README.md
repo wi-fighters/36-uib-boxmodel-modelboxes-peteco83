@@ -4,5 +4,8 @@
 
 **Instructions**:
 
-1. Modify the given page to make it look like the mockup.
-1. Group the selectors.
+1. Create a stylesheet and link it to the `index.html` file. 
+2. Add styling to the `index.html` in order to make the page  resemble the mockup image below. 
+3. Group the selectors where possible. 
+
+![mockup-image](/image/mockup.png)
